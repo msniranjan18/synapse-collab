@@ -51,5 +51,13 @@ Bias Awareness: Multiple perspectives reduce single-viewpoint blindspots
 
 Continuous Learning: The room remembers past discussions and builds on them
 
+# Future Vision
+Imagine rooms that specialize over time - a "Sustainable Tech" room that becomes expert in green innovation, or a "Character Development" room that masters narrative psychology.
 
+Think of hybrid human-AI rooms where you can invite colleagues alongside specialized AIs for hybrid brainstorming sessions.
+
+Consider learning rooms where students watch historical debates recreated with period-accurate AI thinkers.
+
+# The Core Promise
+SynapseCollab doesn't just give you answers—it shows you how to think about problems. It's not just a tool for solutions, but a gymnasium for your mind.
 
